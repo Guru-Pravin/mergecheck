@@ -1,0 +1,6 @@
+# file_name: hello.py
+def main():
+    print("Initial commit: Hello from my local machine!")
+
+if __name__ == "__main__":
+    main()
